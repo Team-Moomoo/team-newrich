@@ -1,0 +1,16 @@
+{
+  "name": "team-newrich",
+  "description": "Mentor advisory plugin — Naval, Munger, Karpathy, Tim Ferriss, kepano. Get advice grounded in your own situation file via /ask, /debate, /council.",
+  "owner": {
+    "name": "team-moomoo",
+    "url": "https://github.com/Team-Moomoo"
+  },
+  "plugins": [
+    {
+      "name": "team-newrich",
+      "source": "./",
+      "description": "Mentor advisory plugin. Triggers on /ask, /debate, /council to get advice from virtual mentors grounded in your own situation file.",
+      "version": "0.2.0"
+    }
+  ]
+}

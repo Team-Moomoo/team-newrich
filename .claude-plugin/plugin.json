@@ -1,0 +1,13 @@
+{
+  "name": "team-newrich",
+  "description": "Mentor advisory plugin. Get insights from virtual mentors (Naval, Munger, Karpathy, Tim Ferriss, kepano) on life and business decisions, grounded in your own situation file.",
+  "version": "0.2.0",
+  "author": {
+    "name": "team-moomoo",
+    "url": "https://github.com/Team-Moomoo"
+  },
+  "keywords": ["mentor", "advisory", "decision-making", "frameworks", "korean"],
+  "license": "MIT",
+  "homepage": "https://github.com/Team-Moomoo/team-newrich",
+  "repository": "https://github.com/Team-Moomoo/team-newrich"
+}
